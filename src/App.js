@@ -3,7 +3,7 @@ import Footer from './Components/Footer';
 import Hero from './Components/Hero';
 import Navbar from './Components/Navbar';
 import Services from './Components/Services';
-import Tour from './Components/Tour';
+import Tours from './Components/Tours';
 
 function App() {
   console.log('hello');
@@ -13,7 +13,7 @@ function App() {
       <Hero />
       <About />
       <Services />
-      <Tour />
+      <Tours />
       <Footer />
     </>
   );
